@@ -47,7 +47,7 @@ Installing
 
 .. code-block:: sh
 
-  go get -u github.com/amarnathcjd/gogram
+  go get -u github.com/IAkhmatov/gogram
 
     
 Set-Up Client
@@ -154,13 +154,13 @@ TODO
   :width: 400
   :alt: Logo
 
-.. |imx| image:: https://img.shields.io/github/issues/amarnathcjd/gogram
+.. |imx| image:: https://img.shields.io/github/issues/IAkhmatov/gogram
    :alt: GitHub issues
 
-.. |imgo| image:: https://img.shields.io/github/go-mod/go-version/amarnathcjd/gogram/master
+.. |imgo| image:: https://img.shields.io/github/go-mod/go-version/IAkhmatov/gogram/master
    :alt: GitHub go.mod Go version (branch & subdirectory of monorepo)
 
-.. |cma| image:: https://img.shields.io/github/commit-activity/y/amarnathcjd/gogram
+.. |cma| image:: https://img.shields.io/github/commit-activity/y/IAkhmatov/gogram
    :alt: GitHub commit activity
 
 Contributing

@@ -24,6 +24,6 @@ jobs:
           commit_message: 'RoseLoverX: auto Linting'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: AmarnathCjd
-          commit_user_email: 72609355+AmarnathCjd@users.noreply.github.com
-          commit_author: AmarnathCjd <72609355+AmarnathCjd+@users.noreply.github.com>
+          commit_user_name: IAkhmatov
+          commit_user_email: 72609355+IAkhmatov@users.noreply.github.com
+          commit_author: IAkhmatov <72609355+IAkhmatov+@users.noreply.github.com>

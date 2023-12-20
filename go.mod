@@ -1,4 +1,4 @@
-module github.com/amarnathcjd/gogram
+module github.com/IAkhmatov/gogram
 
 go 1.20
 
