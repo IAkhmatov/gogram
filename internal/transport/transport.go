@@ -7,9 +7,9 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/mode"
-	"github.com/amarnathcjd/gogram/internal/mtproto/messages"
+	"github.com/IAkhmatov/gogram/internal/encoding/tl"
+	"github.com/IAkhmatov/gogram/internal/mode"
+	"github.com/IAkhmatov/gogram/internal/mtproto/messages"
 	"github.com/pkg/errors"
 )
 

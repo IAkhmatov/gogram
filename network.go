@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/mtproto/messages"
-	"github.com/amarnathcjd/gogram/internal/mtproto/objects"
-	"github.com/amarnathcjd/gogram/internal/session"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/IAkhmatov/gogram/internal/encoding/tl"
+	"github.com/IAkhmatov/gogram/internal/mtproto/messages"
+	"github.com/IAkhmatov/gogram/internal/mtproto/objects"
+	"github.com/IAkhmatov/gogram/internal/session"
+	"github.com/IAkhmatov/gogram/internal/utils"
 	"github.com/pkg/errors"
 )
 

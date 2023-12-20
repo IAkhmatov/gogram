@@ -11,11 +11,11 @@ import (
 	"log"
 	"math/big"
 
-	ige "github.com/amarnathcjd/gogram/internal/aes_ige"
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/keys"
-	"github.com/amarnathcjd/gogram/internal/math"
-	"github.com/amarnathcjd/gogram/internal/mtproto/objects"
+	ige "github.com/IAkhmatov/gogram/internal/aes_ige"
+	"github.com/IAkhmatov/gogram/internal/encoding/tl"
+	"github.com/IAkhmatov/gogram/internal/keys"
+	"github.com/IAkhmatov/gogram/internal/math"
+	"github.com/IAkhmatov/gogram/internal/mtproto/objects"
 	"github.com/pkg/errors"
 )
 

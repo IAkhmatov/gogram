@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	mtproto "github.com/amarnathcjd/gogram"
+	mtproto "github.com/IAkhmatov/gogram"
 	"github.com/pkg/errors"
 )
 
